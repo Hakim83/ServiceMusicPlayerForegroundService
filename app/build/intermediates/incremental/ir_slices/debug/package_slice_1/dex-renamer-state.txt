@@ -1,0 +1,4 @@
+#Sun Mar 03 15:47:43 EET 2019
+base.0=C\:\\Users\\Mohammed\\AndroidStudioProjects\\MusicPlayerForegroundService\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
